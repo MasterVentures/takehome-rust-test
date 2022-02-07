@@ -46,7 +46,10 @@ fn get(key) // For the given key return corresponding value in the cache
 ```
 
 ## Deliverables
-zip your src and cargo package and ask your Master Ventures contact for information on where to send it.
+
+Clone this repo.
+Author a solution following the instructions provided to you.
+Push your solution to a public repo you own and share with Master Ventures team.
 
 ## Questions
 
