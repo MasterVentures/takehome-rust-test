@@ -24,7 +24,7 @@ Wikipedia has a great short description of LRU Caches found [here](https://en.wi
 
 2.) Your code should include tests for verification (**Hint**: This is highly valued here!)
 
-3.) Only the ```std``` crate should be used for this implementation. (If there are other outside crates they are worthy of discussion but not to be used in this implementation)
+3.) Only the ```std``` crate should be used for this implementation. Do not use any premade LruCache crates for obvious reasons. (If there are other outside crates they are worthy of discussion but not to be used in this implementation)
 
 4.) Runtime and Space complexity should be provided. This does **NOT NEED** to be optimal.(**Hint**: the optimal solution in Rust for this problem is NOT trivial we are not expecting it! Though if you are able to don't let us stop you!) We want to see that you can identify the speed/space limitations of your program.
 
